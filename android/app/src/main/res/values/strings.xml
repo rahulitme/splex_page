@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp</string> <!-- Replace with your app's display name -->
+    
+    <!-- Correct Facebook App ID string -->
+    <string name="facebook_app_id">1292439712193366</string> <!-- Replace with your actual Facebook App ID -->
+    
+    <!-- Correct Facebook Login Protocol Scheme -->
+    <string name="fb_login_protocol_scheme">fb1292439712193366</string> <!-- 'fb' prefix + your Facebook App ID -->
+    
+    <!-- Facebook Client Token -->
+    <string name="facebook_client_token">5245170ac62b8516a08d9db2d354234f</string>
+</resources>

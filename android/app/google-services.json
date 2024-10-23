@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113494712362",
+    "project_id": "splex3-acd2f",
+    "storage_bucket": "splex3-acd2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113494712362:android:0358633749726e13636353",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113494712362-3pofe96kqs10gjnhc9enjovijc3gvtma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1NJCGrCncvFpj0gBSc4qk-TT5hDmytyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113494712362-3pofe96kqs10gjnhc9enjovijc3gvtma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
